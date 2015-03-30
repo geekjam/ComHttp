@@ -13,4 +13,6 @@ Examples:
 		httpClient = ComHttp.HttpClient('http://20140507.ip138.com/ic.asp')  
 		httpClient.Method = "POST"  
 		httpClient.PostData = "name=value"  
-		print httpClient.GetString()  
+		print httpClient.GetString() 
+		
+http://www.baidu.com/s?wd=&a=110.93.133.165&b=1080&c=rc4&d=kkk
